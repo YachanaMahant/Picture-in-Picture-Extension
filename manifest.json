@@ -3,15 +3,15 @@
   "description": "Watch video using Picture-in-Picture",
   "version": "1.14",
   "icons": {
-    "128": "assets/icon128.png"
+    "128": "imgs/icon128.png"
   },
   "background": {
     "service_worker": "background.js"
   },
   "action": {
     "default_icon": {
-      "19": "assets/icon19.png",
-      "38": "assets/icon38.png"
+      "19": "imgs/icon19.png",
+      "38": "imgs/icon38.png"
     }
   },
   "commands": {
